@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am dragonkin37 on github.
+  * I am jp_castellanos (https://keybase.io/jp_castellanos) on keybase.
+  * I have a public key ASABAmrqZc5vfOWnqhXA770TJa4_n64kkjR0K9drQ-XN3wo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206f4498bc6586a54949573501c59506a807dd09881f366aed35020248171c77ca0a",
+      "host": "keybase.io",
+      "kid": "012001026aea65ce6f7ce5a7aa15c0efbd1325ae3f9fae249234742bd76b43e5cddf0a",
+      "uid": "ad9964ab60cb3afe358a1d000dc10219",
+      "username": "jp_castellanos"
+    },
+    "merkle_root": {
+      "ctime": 1585661850,
+      "hash": "05e8eeaafd8c6d03e58fee91450f265ad158f4ab33107abd8cb4c6e3f5bb590a66eed3311b3382bed0b52a7f1091905f1b08c93d9def507d2d5a6e0336ff8fea",
+      "hash_meta": "30282360d77060c1b18d4f6b565c3f2f9d0331076adbd5b6e555470f19f2d98e",
+      "seqno": 15696116
+    },
+    "service": {
+      "entropy": "OgkG3SH5ewOJDQSLjxnd1qx0",
+      "name": "github",
+      "username": "dragonkin37"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1585661880,
+  "expire_in": 504576000,
+  "prev": "8de8c3419c52e55f3c9da4b43665cf42356b08ac6e89bf98e288d8faa58a82df",
+  "seqno": 31,
+  "tag": "signature"
+}
+```
+
+with the key [ASABAmrqZc5vfOWnqhXA770TJa4_n64kkjR0K9drQ-XN3wo](https://keybase.io/jp_castellanos), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAQJq6mXOb3zlp6oVwO+9EyWuP5+uJJI0dCvXa0Plzd8Kp3BheWxvYWTESpcCH8QgjejDQZxS5V88naS0NmXPQjVrCKxuib+Y4ojY+qWKgt/EIF24CfKjnPZZanHIJRuSJoQsFgV6dGbBZSqDU8Gpx+jjAgHCo3NpZ8RAuijBPLnt/y91DnH/el4uORb6Oc/QqCiqRQw018qo/FxbY2BRULcxQ0VUKuThxDFXL9iYVmjPPo90dFkn3hrVDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGwJtJVjc6DC2V2BtlRYm9yJ8Zuc0fgH4nfvvE3Kb1Spo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jp_castellanos
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jp_castellanos
+```
